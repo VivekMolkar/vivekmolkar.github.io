@@ -20,10 +20,10 @@ timezone: Asia/Kolkata
 
 title: Vivek Molkar # the main title
 
-tagline: # it will display as the sub-title
+tagline: Clear explanations for complex concepts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Join us on our journey as we explore the exciting world of JavaScript together. Whether you're a beginner or an experienced developer, our blog offers something for everyone. From in-depth explanations of complex concepts to hands-on exercises and real-world examples, we strive to make learning JavaScript easy and enjoyable. Come grow your skills and deepen your understanding of this versatile language with us.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://vivekmolkar.github.io"
