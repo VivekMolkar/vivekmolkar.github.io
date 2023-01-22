@@ -1,7 +1,7 @@
 ---
 title: "Arrow Functions In Javascript"
 author: vivek
-date: 2023-01-08 20:00:00 +0800
+date: 2023-01-08 20:00:00 +0530
 categories: [JavaScript, ES6]
 tags: [JavaScript, ES6, Arrow functions]
 pin: false
@@ -88,7 +88,7 @@ Here are some specific similarities between arrow functions and traditional func
 6. Both can be used to create constructor functions and classes.
 7. Both can be used to create object methods.
 
-### Best practices:
+### Best practices
 
 1. Use arrow functions when you need to pass a function as a callback or create a small throwaway function on the fly.
 
@@ -108,7 +108,7 @@ Here are some specific similarities between arrow functions and traditional func
 
 9. Do not use arrow function when you want to add the method to the prototype.
 
-### Pitfalls:
+### Pitfalls
 
 1. **Misunderstanding the this binding**: If you're used to traditional function expressions and their this binding behavior, it can be easy to make mistakes when using arrow functions.
 

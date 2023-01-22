@@ -1,7 +1,7 @@
 ---
 title: "Understanding var, let, and const"
 author: vivek
-date: 2023-01-01 20:00:00 +0800
+date: 2023-01-01 20:00:00 +0530
 categories: [JavaScript, ES6]
 tags: [JavaScript, ES6, var, let, const]
 pin: false
