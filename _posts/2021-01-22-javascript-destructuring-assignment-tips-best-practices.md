@@ -1,7 +1,7 @@
 ---
-title: "Mastering Destructuring Assignment in JavaScript: Tips, Tricks, and Best Practices"
+title: "Destructuring Assignment in JavaScript: Tips, Tricks, and Best Practices"
 author: vivek
-date: 2023-01-20 20:00:00 +0530
+date: 2023-01-22 15:00:00 +0530
 categories: [JavaScript, ES6]
 tags: [JavaScript, ES6, Destructuring, Array, Object]
 pin: false
