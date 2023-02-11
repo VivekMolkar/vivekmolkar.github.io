@@ -3,7 +3,8 @@ title: "Arrow Functions In Javascript"
 author: vivek
 date: 2023-01-08 20:00:00 +0530
 categories: [JavaScript, ES6]
-tags: [JavaScript, ES6, Arrow functions]
+tags: [Arrow functions]
+description: Learn how to use Arrow Functions in JavaScript and take your coding skills to the next level. Discover the benefits of this concise and expressive function syntax.
 pin: false
 ---
 

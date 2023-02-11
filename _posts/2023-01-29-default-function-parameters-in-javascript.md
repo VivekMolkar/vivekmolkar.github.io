@@ -1,9 +1,10 @@
 ---
-title: "Default Function Parameters in JavaScript: A Comprehensive Guide"
+title: "Default Function Parameters in JavaScript: A Guide"
 author: vivek
 date: 2023-01-29 00:00:00 +0530
 categories: [JavaScript, ES6]
-tags: [JavaScript, ES6, Default function parameters]
+tags: [Default function parameters]
+description: Get a complete understanding of default function parameters in JavaScript with this comprehensive guide. Learn how to set default values for function arguments and enhance your coding skills."
 pin: false
 ---
 

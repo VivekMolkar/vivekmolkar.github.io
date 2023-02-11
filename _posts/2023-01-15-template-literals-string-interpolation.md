@@ -3,7 +3,8 @@ title: "A Guide to String Interpolation in JavaScript"
 author: vivek
 date: 2023-01-15 20:00:00 +0530
 categories: [JavaScript, ES6]
-tags: [JavaScript, ES6, String, Literal, Interpolation]
+tags: [String, Literal, Interpolation]
+description: Master string interpolation in JavaScript with this comprehensive guide. Learn how to embed expressions within string literals and improve the readability of your code.
 pin: false
 ---
 

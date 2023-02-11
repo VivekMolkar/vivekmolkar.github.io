@@ -3,7 +3,8 @@ title: "Unlocking the Power of Promises in JavaScript"
 author: vivek
 date: 2023-02-04 00:00:00 +0530
 categories: [JavaScript, ES6]
-tags: [JavaScript, ES6, Promises]
+tags: [Promises]
+description: Discover the full potential of Promises in JavaScript and learn how to simplify asynchronous operations for a better and more efficient code. Unlock the power of Promises today!
 pin: false
 ---
 

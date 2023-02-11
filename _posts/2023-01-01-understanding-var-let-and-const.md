@@ -3,7 +3,8 @@ title: "Understanding var, let, and const"
 author: vivek
 date: 2023-01-01 20:00:00 +0530
 categories: [JavaScript, ES6]
-tags: [JavaScript, ES6, var, let, const]
+tags: [var, let, const]
+description: Explore the differences between var, let, and const in JavaScript and gain a deep understanding of variable declarations. Master the scope and variable lifetime in your code.
 pin: false
 ---
 
