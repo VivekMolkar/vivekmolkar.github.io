@@ -1,5 +1,7 @@
 ---
 title: "An Introduction to ES6 Classes in JavaScript"
+image:
+  path: /assets/img/intro-to-es6-classes/intro-to-es6-classes-p.png
 author: vivek
 date: 2023-03-12 13:00:00 +0530
 categories: [JavaScript, ES6]
@@ -9,6 +11,12 @@ pin: false
 ---
 
 ES6 classes are a powerful feature of JavaScript that allows you to define and work with object-oriented programming concepts in a simpler and more intuitive way. With ES6 classes, you can create reusable templates for objects that share common properties and behavior, and easily define new subclasses that inherit from a parent class. In this blog post, we will provide a comprehensive overview of ES6 classes, including their syntax, properties, methods, and inheritance. Whether you're new to JavaScript or an experienced developer, this guide will give you everything you need to know to start working with ES6 classes.
+
+>
+
+{: .prompt-tip }
+
+> **"Birds of a feather flock together"** means that people or things of similar characteristics tend to associate with one another. Similarly the objects of the same class tend to share similar characteristics, such as properties and methods.
 
 ### Class
 
@@ -213,6 +221,12 @@ In this example, we define a `Person` class using a class expression. The class 
 We then create an instance of the `Person` class and call its `sayHello()` method.
 
 Class expressions are useful when you want to define a class inline or when you need to create a class dynamically at runtime.
+
+>
+
+{: .prompt-warning }
+
+> There are still some differences between traditional object-oriented programming and JavaScript classes.
 
 ### Differences between classes in JavaScript and traditional OOPS!
 

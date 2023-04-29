@@ -1,5 +1,7 @@
 ---
 title: "Understanding var, let, and const"
+image:
+  path: /assets/img/understanding-var-let-and-const/understanding-var-let-and-const-p.png
 author: vivek
 date: 2023-01-01 20:00:00 +0530
 categories: [JavaScript, ES6]
@@ -33,6 +35,16 @@ console.log(x); // undefined
 var x = 5;
 ```
 
+>
+
+{: .prompt-info }
+
+> `var` can be compared to shape-shifting. It's a versatile power that can be used in many situations, but if used improperly it can cause chaos.
+
+{: .prompt-warning }
+
+> Using var improperly can cause variable hoisting and potential issues.
+
 ### let
 
 `let` was introduced in ES6 as an alternative to `var`. Variables declared with `let` are block scoped, meaning they are only accessible within the block they were declared in. This is in contrast to `var`, which is function scoped.
@@ -56,6 +68,10 @@ console.log(x); // ReferenceError: x is not defined
 let x = 5;
 ```
 
+{: .prompt-info }
+
+> `let` can be compared to invisibility. It provides temporary control over a variable, but once the block is exited, the variable is released.
+
 ### const
 
 `const` was also introduced in ES6 and is similar to let in that it is block scoped. The main difference is that a variable declared with `const` cannot be reassigned. This makes const useful for defining constants, such as pi or the gravitational constant.
@@ -75,6 +91,10 @@ arr.push(4); // [1,2,3,4]
 ```
 
 It is recommended to use `const` by default, unless you know that the value of a variable needs to be reassigned
+
+{: .prompt-info }
+
+> `const` can be compared to invincibility. It's a power for a specific purpose and once the variable is assigned a value, it cannot be changed, just like how invincibility makes a person invulnerable to harm.
 
 ### Best Practices
 

@@ -1,5 +1,7 @@
 ---
 title: "Arrow Functions In Javascript"
+image:
+  path: /assets/img/arrow-functions-in-javascript/arrow-functions-in-javascript-p.png
 author: vivek
 date: 2023-01-08 20:00:00 +0530
 categories: [JavaScript, ES6]
@@ -13,6 +15,12 @@ Welcome to this blog post about arrow functions in JavaScript! Arrow functions a
 ### Definition
 
 Arrow functions, also known as "fat arrow" functions, were introduced in ECMAScript 6 (ES6) as a new way to write anonymous functions. They have a shorter syntax than traditional function expressions and do not bind their own `this`, `arguments`, `super`, or `new.target`. We will take a look at the definition, examples, differences and best practices of arrow functions, as well as some pitfalls to watch out for. By the end of this post, you will have a solid understanding of how to use arrow functions in your code to make it more concise and maintainable.
+
+>
+
+{: .prompt-tip }
+
+> Arrow functions can be both a blessing and a curse, as they can make code more readable and concise, but may also lead to less clear code and confusion.
 
 ### Syntax
 

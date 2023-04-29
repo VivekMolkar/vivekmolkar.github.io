@@ -1,5 +1,7 @@
 ---
 title: "Default Function Parameters in JavaScript: A Guide"
+image:
+  path: /assets/img/default-function-parameters-in-javascript/default-function-parameters-in-javascript-p.png
 author: vivek
 date: 2023-01-29 00:00:00 +0530
 categories: [JavaScript, ES6]
@@ -9,6 +11,12 @@ pin: false
 ---
 
 JavaScript is a dynamic and flexible language, and it continues to evolve and expand with each new version. One of the notable additions to the language is the concept of default function parameters. In this blog, we will explore what default function parameters are, how they work, and when to use them.
+
+>
+
+{: .prompt-tip }
+
+> **"A safety net for acrobats."** Just like a safety net provides a fallback in case an acrobat falls, default function parameters provide a fallback value in case an argument is not provided or is `undefined`.
 
 ### Default parameters
 

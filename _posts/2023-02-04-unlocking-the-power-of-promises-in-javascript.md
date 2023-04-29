@@ -1,5 +1,7 @@
 ---
 title: "Unlocking the Power of Promises in JavaScript"
+image:
+  path: /assets/img/unlocking-the-power-of-promises-in-javascript/unlocking-the-power-of-promises-in-javascript-p.png
 author: vivek
 date: 2023-02-04 00:00:00 +0530
 categories: [JavaScript, ES6]
@@ -9,6 +11,12 @@ pin: false
 ---
 
 Promises have become an integral part of JavaScript development, offering a powerful way to handle asynchronous operations. Whether you’re working on a small script or a large web application, mastering the concept of promises will help you write more efficient, cleaner, and scalable code.
+
+>
+
+{: .prompt-tip }
+
+> "Promises are like IOUs." When you create a promise in JavaScript, you are essentially making a promise to return a value or perform an action at some point in the future. This is similar to giving someone an IOU, promising to pay them back at a later time.
 
 In this blog, we’ll dive into the basics of promises, how they work, and some of their practical applications.
 

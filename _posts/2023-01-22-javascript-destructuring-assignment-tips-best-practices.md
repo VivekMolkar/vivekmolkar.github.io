@@ -1,5 +1,7 @@
 ---
 title: "Destructuring Assignment in JavaScript: Tips & Best Practices"
+image:
+  path: /assets/img/javascript-destructuring-assignment-tips-best-practices/javascript-destructuring-assignment-tips-best-practices-p.png
 author: vivek
 date: 2023-01-22 15:00:00 +0530
 categories: [JavaScript, ES6]
@@ -9,6 +11,12 @@ pin: false
 ---
 
 Welcome to the world of JavaScript destructuring assignment! This handy feature makes working with arrays and objects a breeze. Think of it like a "shortcut" for extracting data and assigning it to variables. It's a lifesaver for anyone tired of writing repetitive and error-prone code. With destructuring assignment, you can easily access the properties and elements of an array or object, making your code cleaner, more readable, and overall more enjoyable to work with. In this blog post, we will explore how to use destructuring assignment in real-world scenarios and discover how it can make your life as a developer so much easier. So sit back, relax, and let's dive into the world of destructuring assignment together!
+
+>
+
+{: .prompt-tip }
+
+> Destructuring assignment allows you to extract only the properties or values that you need from an object or array, instead of taking the entire thing.
 
 ### Destructuring
 

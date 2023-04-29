@@ -1,5 +1,7 @@
 ---
 title: "A Guide to String Interpolation in JavaScript"
+image:
+  path: /assets/img/template-literals-string-interpolation/template-literals-string-interpolation-p.png
 author: vivek
 date: 2023-01-15 20:00:00 +0530
 categories: [JavaScript, ES6]
@@ -9,6 +11,12 @@ pin: false
 ---
 
 Welcome to our guide on template literals in JavaScript! If you're tired of concatenating multiple strings or struggling to read long and complex string expressions, then this post is for you. In this post, we'll introduce you to template literals, a powerful feature in ECMAScript 6 that makes it easy to interpolate variables and expressions into strings. We'll show you how to use template literals and how to take advantage of their conciseness and flexibility. So, come along with us, and let's learn how to unleash the power of template literals to write more readable and maintainable code.
+
+>
+
+{: .prompt-tip }
+
+> String interpolation can make your code more transparent and easier to understand, by clearly showing how variables or expressions are used within a string.
 
 ### Template literals
 
