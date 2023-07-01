@@ -57,7 +57,7 @@ A virtual environment is a self-contained Python environment that allows you to 
 
    After activation, you will notice that your terminal prompt changes to indicate that you are now working within the virtual environment.
 
-   ![venv Activated](/assets/img/setting-up-flask-development-environment/venv.png)
+   ![venv Activated](/assets/img/setting-up-flask-development-environment/venv.png){: width="972" height="589" }
    _venv Activated_
 
 ## Step 3: Installing Flask
@@ -119,12 +119,12 @@ Now that we have Flask installed, let's set up a basic Flask project structure. 
 
    This will start the Flask development server on your local machine.
 
-   ![Flask Server Started](/assets/img/setting-up-flask-development-environment/console-server-start.png)
+   ![Flask Server Started](/assets/img/setting-up-flask-development-environment/console-server-start.png){: width="972" height="589" }
    _Flask Server Started_
 
    You can now access the application by navigating to [`http://127.0.0.1:5000`](http://127.0.0.1:5000) in your web browser.
 
-   ![Output](/assets/img/setting-up-flask-development-environment/browser-op.png)
+   ![Output](/assets/img/setting-up-flask-development-environment/browser-op.png){: width="972" height="589" }
 
 ## FAQ
 

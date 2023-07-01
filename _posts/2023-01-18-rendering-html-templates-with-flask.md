@@ -78,7 +78,7 @@ In the above code, we define a route using the `@app.route` decorator. The `inde
 
 In the HTML file, we use double curly braces ({% raw %}`{{ name }}`{% endraw %}) to indicate a placeholder for the value of the `name` variable passed from the Python code. When the template is rendered, the placeholder will be replaced with the actual value of the variable.
 
-![Rendered HTML](/assets/img/rendering-html-templates-with-flask/rendered-html.png)
+![Rendered HTML](/assets/img/rendering-html-templates-with-flask/rendered-html.png){: width="972" height="589" }
 _Rendered HTML_
 
 ## Rendering Templates Using Flask's Template Engine
