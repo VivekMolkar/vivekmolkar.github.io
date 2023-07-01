@@ -3,7 +3,7 @@ title: "Rendering HTML Templates with Flask"
 image:
   path: /assets/img/rendering-html-templates-with-flask/rendering-html-templates-with-flask-p.png
 author: vivek
-date: 2023-07-01 10:00:00 +0000
+date: 2023-01-18 10:00:00 +0000
 categories: [Web Development, Flask]
 tags: [Flask, HTML, Templates, Rendering]
 description: Learn how to create a templates folder, add HTML files, pass variables to templates, and render templates using Flask's template engine.
