@@ -161,20 +161,20 @@ In this example, the `jsonify()` function converts the Python dictionary `data` 
 
 ## FAQs
 
-**Q: How do I access GET parameters in Flask?**
-A: You can access GET parameters using the `request.args` attribute. For example, `request.args.get('name')` retrieves the value of the `name` parameter.
+**Q: How do I access GET parameters in Flask?**<br>
+**A:** You can access GET parameters using the `request.args` attribute. For example, `request.args.get('name')` retrieves the value of the `name` parameter.
 
-**Q: How do I access POST parameters in Flask?**
-A: POST parameters can be accessed using the `request.form` attribute. For example, `request.form.get('name')` retrieves the value of the `name` parameter.
+**Q: How do I access POST parameters in Flask?**<br>
+**A:** POST parameters can be accessed using the `request.form` attribute. For example, `request.form.get('name')` retrieves the value of the `name` parameter.
 
-**Q: How can I set cookies in Flask's response?**
-A: You can set cookies using the `response.set_cookie()` method. For example, `resp.set_cookie('username', 'John')` sets a cookie named "username" with the value "John".
+**Q: How can I set cookies in Flask's response?**<br>
+**A:** You can set cookies using the `response.set_cookie()` method. For example, `resp.set_cookie('username', 'John')` sets a cookie named "username" with the value "John".
 
-**Q: How can I set headers in Flask's response?**
-A: Headers can be set using the `response.headers` attribute. For example, `resp.headers['Content-Type'] = 'application/json'` sets the content type header to "application/json".
+**Q: How can I set headers in Flask's response?**<br>
+**A:** Headers can be set using the `response.headers` attribute. For example, `resp.headers['Content-Type'] = 'application/json'` sets the content type header to "application/json".
 
-**Q: How do I return JSON responses in Flask?**
-A: Flask provides the `jsonify()` function to easily return JSON responses. For example, `return jsonify(data)` converts the Python dictionary `data` into a JSON response.
+**Q: How do I return JSON responses in Flask?**<br>
+**A:** Flask provides the `jsonify()` function to easily return JSON responses. For example, `return jsonify(data)` converts the Python dictionary `data` into a JSON response.
 
 ---
 
