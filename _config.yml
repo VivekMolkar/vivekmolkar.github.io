@@ -28,6 +28,9 @@ social:
     - https://www.facebook.com/vivekmolkar
     - https://www.linkedin.com/in/vivekmolkar
 
+include:
+  - ads.txt
+
 # Webmaster / verification (new Chirpy keys)
 webmaster_verifications:
   google:
