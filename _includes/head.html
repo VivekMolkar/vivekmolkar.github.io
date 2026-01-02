@@ -146,4 +146,27 @@
       crossorigin="anonymous"
     ></script>
   {% endif %}
+
+  {% comment %} === Safe noindex for thin taxonomies + ALL pagination pages === {% endcomment %}
+  {% assign noindex = false %}
+
+  {% comment %} Thin categories & tags {% endcomment %}
+  {% if page.layout == 'category' or page.layout == 'tag' %}
+    {% assign post_count = page.posts.size | default: 0 %}
+    {% if post_count <= 5 %}
+      {% assign noindex = true %}
+    {% endif %}
+
+    {% comment %} All paginated pages (home, categories, tags, etc.) {% endcomment %}
+  {% elsif page.url contains '/page/' %}
+    {% assign noindex = true %}
+
+    {% comment %} Optional: very thin archives if you use them {% endcomment %}
+  {% elsif page.layout == 'archive' %}
+    {% assign noindex = true %}
+  {% endif %}
+
+  {% if noindex %}
+    <meta name="robots" content="noindex, follow">
+  {% endif %}
 </head>
