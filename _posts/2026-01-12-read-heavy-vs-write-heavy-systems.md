@@ -180,15 +180,15 @@ They surface under load.
 
 - **Databases vs Caches**  
   Writes must go to the source of truth.  
-  https://vivekmolkar.com/posts/databases-vs-caches/
+  [https://vivekmolkar.com/posts/databases-vs-caches/](https://vivekmolkar.com/posts/databases-vs-caches/)
 
 - **Caching**  
   Helps reads far more than writes.  
-  https://vivekmolkar.com/posts/caching/
+  [https://vivekmolkar.com/posts/caching/](https://vivekmolkar.com/posts/caching/)
 
 - **Consistency Models**  
   Writes usually demand stronger guarantees.  
-  https://vivekmolkar.com/posts/consistency-models/
+  [https://vivekmolkar.com/posts/consistency-models/](https://vivekmolkar.com/posts/consistency-models/)
 
 Workload shape comes before architecture.
 
