@@ -16,3 +16,7 @@ sed -i -E "s/^(plugins=\()(git)(\))/\1\2 zsh-syntax-highlighting zsh-autosuggest
 
 # Avoid git log use less
 echo -e "\nunset LESS" >>~/.zshrc
+
+# Install image optimization tools
+apt update && apt install -y optipng pngquant python3 python3-pip
+pip install pre-commit
