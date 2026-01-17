@@ -1,7 +1,7 @@
 ---
 title: "Graceful Degradation (Designing Useful Failure Instead of Total Collapse)"
 author: vivek
-date: 2026-01-17 09:00:00 +05:30
+date: 2026-01-17 08:00:00 +05:30
 categories: [System Design]
 tags: [system-design, reliability, distributed-systems]
 description: "A first-principles explanation of graceful degradation and why designing systems to do less under failure is better than total collapse."
