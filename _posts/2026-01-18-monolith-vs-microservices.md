@@ -1,7 +1,7 @@
 ---
 title: "Monolith vs Microservices (Why This Question Usually Shows Up at the Wrong Time)"
 author: vivek
-date: 2026-01-18 16:00:00 +05:30
+date: 2026-01-18 10:00:00 +05:30
 categories: [System Design]
 tags: [system-design, architecture, fundamentals]
 description: "A grounded, first-principles look at monoliths vs microservices, why the question appears too early, and how real-world pressure should drive architecture."
