@@ -1,7 +1,7 @@
 ---
 title: "API Design (Contracts Over Code)"
 author: vivek
-date: 2026-01-19 09:00:00 +05:30
+date: 2026-01-19 08:00:00 +05:30
 categories: [System Design]
 tags: [system-design, api-design, fundamentals]
 description: "A first-principles look at API design, why APIs are contracts not functions, and how broken expectations cause real outages."
