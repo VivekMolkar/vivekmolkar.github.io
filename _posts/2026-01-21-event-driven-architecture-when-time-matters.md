@@ -1,7 +1,7 @@
 ---
 title: "Event-Driven Architecture (When Time Matters)"
 author: vivek
-date: 2026-01-21 16:00:00 +05:30
+date: 2026-01-21 08:00:00 +05:30
 categories: [System Design]
 tags: [system-design, distributed-systems, event-driven]
 description: "A first-principles explanation of event-driven architecture, focusing on time, decoupling, and designing systems that react instead of block."
