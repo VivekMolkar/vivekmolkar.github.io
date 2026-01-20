@@ -1,7 +1,7 @@
 ---
 title: "Synchronous vs Asynchronous Systems (Why Waiting Is a Design Choice)"
 author: vivek
-date: 2026-01-20 09:00:00 +05:30
+date: 2026-01-20 08:00:00 +05:30
 categories: [System Design]
 tags: [system-design, distributed-systems, fundamentals]
 description: "A calm, first-principles explanation of synchronous vs asynchronous systems, focusing on waiting, time, and system design trade-offs."
