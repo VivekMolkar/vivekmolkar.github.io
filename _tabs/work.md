@@ -27,7 +27,7 @@ only the pieces that reflect how I think about systems, trade-offs, and design.
           Designing a small writing tool with clear constraints and intentional simplicity.
         </p>
 
-        <a href="{{ '/work/threadsmith/' | relative_url }}">
+        <a href="{{ '/work/threadsmith' | relative_url }}">
           View details
         </a>
       </div>
