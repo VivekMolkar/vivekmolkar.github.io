@@ -30,11 +30,7 @@ What I didn’t realize then was this:
 
 I remember adding a feature that looked harmless.
 
-User signs up →  
-send welcome email →  
-create profile →  
-update analytics →  
-notify another service.
+User signs up → send welcome email → create profile → update analytics → notify another service.
 
 All in one request.
 
