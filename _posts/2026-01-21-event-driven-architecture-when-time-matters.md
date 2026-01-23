@@ -165,7 +165,7 @@ These ideas were quietly pointing here.
 > 
 **Events describe reality.  
 Services decide how to respond.**
-{: .info-tip}
+{: .prompt-tip}
 
 
 ## A Small Exercise

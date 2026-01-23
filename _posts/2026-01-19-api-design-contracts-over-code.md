@@ -144,7 +144,7 @@ APIs are the *surface area* of your system.
 > 
 **Code can be refactored.  
 Contracts must be respected.**
-{: .info-tip}
+{: .prompt-tip}
 
 ## 🧪 Mini Exercise
 
