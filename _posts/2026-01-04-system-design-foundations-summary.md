@@ -6,7 +6,7 @@ categories: [System Design]
 tags: [system-design, fundamentals, foundations]
 description: "A calm summary of system design foundations, showing how core concepts connect into one mental model."
 mermaid: true
-pin: true
+pin: false
 ---
 
 
