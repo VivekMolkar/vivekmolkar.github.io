@@ -162,7 +162,7 @@ that’s the cost of missing limits.
 
 > **A healthy system spaces work out  
 > before it has to shut things down.**
-> {: .info-tip}
+> {: .prompt-tip}
 
 That’s rate limiting.
 

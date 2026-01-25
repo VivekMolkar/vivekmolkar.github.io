@@ -184,7 +184,7 @@ If the answer is “a bit everywhere”, that’s a signal.
 > 
 **Authentication opens the door.  
 Authorization decides how far you can walk.**
-{: .info-tip}
+{: .prompt-tip}
 
 Confusing the two is easy.
 

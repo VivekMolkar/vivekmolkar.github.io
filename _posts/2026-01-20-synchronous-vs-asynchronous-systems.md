@@ -198,7 +198,7 @@ That’s how:
 > 
 **Time always exists in a system.  
 Design decides where it accumulates.**
-{: .info-tip}
+{: .prompt-tip}
 
 
 ## A Small Exercise

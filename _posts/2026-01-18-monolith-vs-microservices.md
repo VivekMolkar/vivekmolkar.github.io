@@ -135,7 +135,7 @@ Microservices *are* refactoring; just slower, distributed, and harder to undo.
 > 
 **Monolith vs microservices is not a technology choice.  
 It’s an organizational one.**
-{: .info-tip}
+{: .prompt-tip}
 
 
 ## 🧪 Mini Exercise
