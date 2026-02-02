@@ -1,7 +1,7 @@
 ---
 title: "Case Study: Designing a News Feed"
 author: vivek
-date: 2026-01-31 16:00:00 +05:30
+date: 2026-02-02 09:00:00 +05:30
 categories: [System Design]
 tags: [system-design, case-study, scalability, caching]
 description: "A first-principles walkthrough of designing a news feed by asking when work should happen and how pressure shifts at scale."
