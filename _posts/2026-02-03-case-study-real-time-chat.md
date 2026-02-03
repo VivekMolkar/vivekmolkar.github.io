@@ -1,7 +1,7 @@
 ---
 title: "Case Study: Designing a Real-Time Chat System"
 author: vivek
-date: 2026-02-03 16:00:00 +05:30
+date: 2026-02-03 09:00:00 +05:30
 categories: [System Design]
 tags: [system-design, case-study, real-time, reliability]
 description: "A question-driven walkthrough of designing a real-time chat system, focusing on delivery guarantees, ordering, and trust at scale."
